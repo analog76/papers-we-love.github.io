@@ -1,0 +1,293 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>Papers We Love</title>
+  <subtitle>A repository of academic computer science research papers and a community who loves reading them.</subtitle>
+  <id>http://papers-we-love.github.io/</id>
+  <link href="http://papers-we-love.github.io/"/>
+  <link href="http://papers-we-love.github.io/feed.xml" rel="self"/>
+  <updated>2018-08-31T20:00:00-04:00</updated>
+  <author>
+    <name>Papers We Love</name>
+  </author>
+  <entry>
+    <title>September Meetups</title>
+    <link rel="alternate" href="http://papers-we-love.github.io/2018/news/september-meetups/"/>
+    <id>http://papers-we-love.github.io/2018/news/september-meetups/</id>
+    <published>2018-08-31T20:00:00-04:00</published>
+    <updated>2018-09-30T12:05:21-04:00</updated>
+    <author>
+      <name>Joshua</name>
+    </author>
+    <content type="html">&lt;p&gt;We have another great line-up of meet-ups scheduled for September across a number of our chapters:&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Berlin 9/4&lt;/strong&gt;: &lt;a href="https://www.meetup.com/Papers-We-Love-Berlin/events/253612657/"&gt;On the criteria to be used in decomposing systems into modules&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Chattanooga 9/4&lt;/strong&gt;: &lt;a href="https://www.meetup.com/Papers-We-Love-Chattanooga/events/254247626/"&gt;Noel Weichbrodt on A History of Algorithms: From the Pebble to the Microchip&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;New York  9/4&lt;/strong&gt;: &lt;a href="https://www.meetup.com/papers-we-love/events/252093590/"&gt;Dan Bentley on The Connection Machine&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Seattle 9/6&lt;/strong&gt;: &lt;a href="https://www.meetup.com/Papers-We-Love-Seattle/events/253503024/"&gt;PWL #47: Keys Under Doormats&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;San Diego 9/6&lt;/strong&gt;: &lt;a href="https://www.meetup.com/Papers-We-Love-San-Diego/events/253451362/"&gt;On Data Banks and Privacy Homomorphisms&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;cambridge  9/12&lt;/strong&gt;: &lt;a href="https://www.meetup.com/Papers-We-Love-Boston-Cambridge/events/254237988/"&gt;Yifan Xing – Consensus algorithm, Paxos and Raft&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Columbus 9/13&lt;/strong&gt;: &lt;a href="https://www.meetup.com/Papers-We-Love-Columbus/events/254469540/"&gt;A Philosophy of Software Design&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Göteborg 9/13&lt;/strong&gt;: &lt;a href="https://www.meetup.com/Papers-We-Love-Gothenburg/events/254299465/"&gt;Matthías on "Suggesting Valid Hole Fits for Typed-Holes" at TimeEdit&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Brasilia 9/13&lt;/strong&gt;: &lt;a href="https://www.meetup.com/papers-we-love-bsb/events/252967613/"&gt;PWL #10: Distributed ledger technical research in Central Bank of Brazil&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;London 9/19&lt;/strong&gt;: &lt;a href="https://www.meetup.com/Papers-We-Love-London/events/254447847/"&gt;Marija Katic presents "A Differencing Algorithm for Object-Oriented Programs"&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Nea Ionia 9/20&lt;/strong&gt;: &lt;a href="https://www.meetup.com/Papers-We-Love-Athens/events/254437702/"&gt;George Psarakis on HyperLogLog in Practice&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Madrid 9/20&lt;/strong&gt;: &lt;a href="https://www.meetup.com/Papers-We-Love-Madrid/events/253868339/"&gt;A Comprehensive Symbolic Analysis of TLS 1.3&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;San Francisco 9/20&lt;/strong&gt;: &lt;a href="https://www.meetup.com/papers-we-love-too/events/253315866/"&gt;Gwen Shapira on Peeking Behind the Curtains of Serverless Frameworks&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Saint Louis 9/24&lt;/strong&gt;: &lt;a href="https://www.meetup.com/Papers-We-Love-in-saint-louis/events/254080623/"&gt;Selfie and the Basics&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Fairfax 9/26&lt;/strong&gt;: &lt;a href="https://www.meetup.com/Papers-We-Love-DC-NoVA/events/252649603/"&gt;Latent Dirichlet Allocation (LDA)&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Columbus 9/27&lt;/strong&gt;: &lt;a href="https://www.meetup.com/Papers-We-Love-Columbus/events/254980575/"&gt;A Philosophy of Software Design&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Vienna 9/27&lt;/strong&gt;: &lt;a href="https://www.meetup.com/Papers-We-Love-Vienna/events/253392193/"&gt;Sagas&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Montréal 9/27&lt;/strong&gt;: &lt;a href="https://www.meetup.com/Papers-We-Love-Montreal/events/254491071/"&gt;"Cryptographic Voting — A Gentle Introduction"&lt;/a&gt;
+ &lt;/p&gt;
+
+&lt;hr /&gt;
+
+&lt;p&gt;The &lt;strong&gt;New York Chapter&lt;/strong&gt; would like to give special thanks to our Platinum sponsor &lt;a href="https://www.twosigma.com"&gt;TwoSigma&lt;/a&gt;. Join us in St. Louis for &lt;a href="http://pwlconf.org/"&gt;PWLConf 2017&lt;/a&gt;!&lt;/p&gt;
+</content>
+  </entry>
+  <entry>
+    <title>August Meetups</title>
+    <link rel="alternate" href="http://papers-we-love.github.io/2018/news/august-meetups/"/>
+    <id>http://papers-we-love.github.io/2018/news/august-meetups/</id>
+    <published>2018-07-31T20:00:00-04:00</published>
+    <updated>2018-08-31T22:05:21-04:00</updated>
+    <author>
+      <name>Joshua</name>
+    </author>
+    <content type="html">&lt;p&gt;We have another great line-up of meet-ups scheduled for August across a number of our chapters:&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Arlington 8/1&lt;/strong&gt;: &lt;a href="https://www.meetup.com/Papers-We-Love-DC-NoVA/events/250423874/"&gt;A New Approach to Linear Filtering and Prediction Problems&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Columbus 8/2&lt;/strong&gt;: &lt;a href="https://www.meetup.com/Papers-We-Love-Columbus/events/253245114/"&gt;SoK: Eternal War in Memory&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Brasilia 8/2&lt;/strong&gt;: &lt;a href="https://www.meetup.com/papers-we-love-bsb/events/252967197/"&gt;PWL #09: A next-generation smart contract and decentralized application platform&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Seattle 8/2&lt;/strong&gt;: &lt;a href="https://www.meetup.com/Papers-We-Love-Seattle/events/252529136/"&gt;PWL #46: TritanDB&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;San Diego 8/2&lt;/strong&gt;: &lt;a href="https://www.meetup.com/Papers-We-Love-San-Diego/events/251479370/"&gt;A Neural Algorithm of Artistic Style&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Chattanooga 8/7&lt;/strong&gt;: &lt;a href="https://www.meetup.com/Papers-We-Love-Chattanooga/events/253310110/"&gt;Brent Spell on New Directions in Cryptography&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Philadelphia 8/9&lt;/strong&gt;: &lt;a href="https://www.meetup.com/Papers-We-Love-Philadelphia/events/252510571/"&gt; Lou Kratz on Scaling Visual Search with Locally Optimized Product Quantization&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Cairo 8/11&lt;/strong&gt;: &lt;a href="https://www.meetup.com/Papers-We-Love-Cairo/events/253010441/"&gt;Machine Learning: Dense-Captioning Video Events and Classification of Debates&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Rio de Janeiro  8/13&lt;/strong&gt;: &lt;a href="https://www.meetup.com/papers-we-love-rio-de-janeiro/events/252667960/"&gt;PWL #18: Unsupervised Representation Learning with Deep Convolutional GANs&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Denver 8/13&lt;/strong&gt;: &lt;a href="https://www.meetup.com/Papers-We-Love-Denver/events/251523302/"&gt;Comedy &amp;amp; tech collide!  Use humor to explain complex things. +Tech Talk Karaoke.&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Columbus 8/16&lt;/strong&gt;: &lt;a href="https://www.meetup.com/Papers-We-Love-Columbus/events/253744005/"&gt;Lessons Learned in Implementing and Deploying Crypto Software&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Belfast 8/18&lt;/strong&gt;: &lt;a href="https://www.meetup.com/Papers-We-Love-Belfast/events/253057298/"&gt;Clean Architecture&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Saint Louis 8/20&lt;/strong&gt;: &lt;a href="https://www.meetup.com/Papers-We-Love-in-saint-louis/events/253581641/"&gt;Chemometric Modeling of Coffee Sensory Notes through Their Chemical Signatures&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Fairfax 8/22&lt;/strong&gt;: &lt;a href="https://www.meetup.com/Papers-We-Love-DC-NoVA/events/252649593/"&gt;Papers We Love: Lean Coffee Edition&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Montréal 8/23&lt;/strong&gt;: &lt;a href="https://www.meetup.com/Papers-We-Love-Montreal/events/253274851/"&gt;X-splines: a spline model designed for the end-user&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;San Francisco 8/23&lt;/strong&gt;: &lt;a href="https://www.meetup.com/papers-we-love-too/events/251372101/"&gt;Aaron Goldman on Chord&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Bangalore 8/25&lt;/strong&gt;: &lt;a href="https://www.meetup.com/Papers-we-love-Bangalore/events/253785300/"&gt;A tutorial on the universality and expressiveness of fold&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Columbus 8/30&lt;/strong&gt;: &lt;a href="https://www.meetup.com/Papers-We-Love-Columbus/events/253967669/"&gt;A Philosophy of Software Design&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Vienna 8/30&lt;/strong&gt;: &lt;a href="https://www.meetup.com/Papers-We-Love-Vienna/events/252370939/"&gt;A Fast File System for UNIX&lt;/a&gt;
+ &lt;/p&gt;
+
+&lt;hr /&gt;
+
+&lt;p&gt;The &lt;strong&gt;New York Chapter&lt;/strong&gt; would like to give special thanks to our Platinum sponsor &lt;a href="https://www.twosigma.com"&gt;TwoSigma&lt;/a&gt;. Join us in St. Louis for &lt;a href="http://pwlconf.org/"&gt;PWLConf 2017&lt;/a&gt;!&lt;/p&gt;
+</content>
+  </entry>
+  <entry>
+    <title>John Feminella on Bitcoin: A Peer-to-Peer Electronic Cash System</title>
+    <link rel="alternate" href="http://papers-we-love.github.io/2018/video/john-feminella-on-bitcoin/"/>
+    <id>http://papers-we-love.github.io/2018/video/john-feminella-on-bitcoin/</id>
+    <published>2018-07-30T20:00:00-04:00</published>
+    <updated>2018-07-31T07:24:20-04:00</updated>
+    <author>
+      <name>Andrew Gross</name>
+    </author>
+    <content type="html">&lt;iframe class="video" width="560" height="315" src="https://www.youtube.com/embed/_f0InNXa69Q" frameborder="0" allowfullscreen=""&gt;&lt;/iframe&gt;
+
+&lt;p&gt;&lt;/p&gt;
+
+&lt;h2 id="new-york---july-10th-2018"&gt;New York - July 10th, 2018&lt;/h2&gt;
+
+&lt;hr /&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;&lt;strong&gt;Meetup:&lt;/strong&gt; &lt;a href="https://bit.ly/2mXiK5j"&gt;https://bit.ly/2mXiK5j&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;Paper:&lt;/strong&gt;&lt;a href="https://bit.ly/LjkXCv"&gt;https://bit.ly/LjkXCv&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;Slides:&lt;/strong&gt; &lt;a href="https://bit.ly/2Kao5PQ"&gt;https://bit.ly/2Kao5PQ&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;Audio:&lt;/strong&gt; &lt;a href="https://bit.ly/2v2i9U7"&gt;https://bit.ly/2v2i9U7&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;strong&gt;Description&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;The original Bitcoin paper was published by a pseudonymous individual named Satoshi Nakamoto on Halloween 2008, in the quiet recesses of a small cryptography mailing list, where it was mostly ignored. A couple of months afterwards, Satoshi published the original Bitcoin client software that implemented the ideas in the paper.&lt;/p&gt;
+
+&lt;p&gt;Ten years later, a lot has happened both about cryptocurrency, and a lot of money has changed hands. In this talk, we explore the core ideas laid out in the paper, the historical background around digital currencies, and how these ideas and history were implemented in the original Bitcoin client.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Bio&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;John Feminella (&lt;a href="http://jxf.me/"&gt;http://jxf.me/&lt;/a&gt;) (&lt;a href="https://twitter.com/jxxf"&gt;@jxxf&lt;/a&gt;) is an avid technologist, occasional public speaker, and curiosity advocate. He serves as an advisor to Pivotal (&lt;a href="https://pivotal.io/"&gt;https://pivotal.io/&lt;/a&gt;), where he works on helping enterprises transform the way they write, operate, and deploy software. He's also the cofounder of a tiny analytics monitoring startup named UpHex (&lt;a href="http://uphex.com/"&gt;http://uphex.com/&lt;/a&gt;).&lt;/p&gt;
+
+&lt;p&gt;John lives in Charlottesville, VA and likes meta-jokes, milkshakes, and referring to himself in the third person in speaker bios.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Audio&lt;/strong&gt;&lt;/p&gt;
+
+&lt;iframe width="100%" height="60" src="https://www.mixcloud.com/widget/iframe/?hide_cover=1&amp;amp;mini=1&amp;amp;feed=%2Fpaperswelove%2Fjohn-feminella-on-bitcoin-a-peer-to-peer-electronic-cash-system%2F" frameborder="0"&gt;&lt;/iframe&gt;
+
+&lt;hr /&gt;
+
+&lt;p style="display: flex; flex-direction: row; justify-content: center; align-items: center;"&gt;
+  &lt;a href="https://www.twosigma.com/"&gt;&lt;img src="/images/TwoSigma_RGB.jpg" alt="TwoSigma" title="TwoSigma - Platinum Sponsor of Papers We Love NYC" style="width: 200px; margin: 0 1em 0 0;" /&gt;&lt;/a&gt; &lt;span style="flex: 1;"&gt;The &lt;strong&gt;New York Chapter&lt;/strong&gt; would like to thank &lt;a href="https://www.twosigma.com"&gt;TwoSigma&lt;/a&gt; for helping to make this meetup possible.&lt;/span&gt;
+&lt;/p&gt;
+
+&lt;hr /&gt;
+</content>
+  </entry>
+  <entry>
+    <title>QCon 2018: Carmen Andoh on Communicating Sequential Processes</title>
+    <link rel="alternate" href="http://papers-we-love.github.io/2018/video/carmen-andoh-on-communicating-sequential-processes/"/>
+    <id>http://papers-we-love.github.io/2018/video/carmen-andoh-on-communicating-sequential-processes/</id>
+    <published>2018-07-25T20:00:00-04:00</published>
+    <updated>2018-07-28T08:41:21-04:00</updated>
+    <author>
+      <name>St. Vincent</name>
+    </author>
+    <content type="html">&lt;iframe class="video" width="560" height="315" src="https://www.youtube.com/embed/av3dYv0UM_s" frameborder="0" allowfullscreen=""&gt;&lt;/iframe&gt;
+
+&lt;p&gt;&lt;/p&gt;
+
+&lt;h2 id="new-york---june-27th-2018"&gt;New York - June 27th, 2018&lt;/h2&gt;
+
+&lt;hr /&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;&lt;strong&gt;Meetup:&lt;/strong&gt; &lt;a href="https://bit.ly/2Op1ORr"&gt;https://bit.ly/2Op1ORr&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;Paper:&lt;/strong&gt; &lt;a href="https://bit.ly/2M0xgnq"&gt;https://bit.ly/2M0xgnq&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;Slides:&lt;/strong&gt;&lt;a href="http://bit.ly/2IBFpfJ"&gt;http://bit.ly/2IBFpfJ&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;strong&gt;Bio&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;Carmen Andoh (&lt;a href="https://twitter.com/carmatrocity"&gt;@carmatrocity&lt;/a&gt;) is a software engineer on the Build Infrastructure team at Travis CI. She was the first scholarship recipient for Gophercon in 2015, where she was first introduced to Go, and hasn't looked back. Ask her about her past lives as a Behavioral Analyst for Autism Spectrum Disorders, Teach for America, and having personally visited over 1000 high schools in the states of NJ, TX, NM, and CO, and all 5 boroughs of NYC.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Audio&lt;/strong&gt;&lt;/p&gt;
+
+&lt;iframe width="100%" height="60" src="https://www.mixcloud.com/widget/iframe/?hide_cover=1&amp;amp;mini=1&amp;amp;feed=%2Fpaperswelovee%2Fqcon-2018-carmen-andoh-on-communicating-sequential-processes%2F" frameborder="0"&gt;&lt;/iframe&gt;
+
+&lt;hr /&gt;
+
+&lt;p style="display: flex; flex-direction: row; justify-content: center; align-items: center;"&gt;
+  &lt;a href="https://www.twosigma.com/"&gt;&lt;img src="/images/TwoSigma_RGB.jpg" alt="TwoSigma" title="TwoSigma - Platinum Sponsor of Papers We Love NYC" style="width: 200px; margin: 0 1em 0 0;" /&gt;&lt;/a&gt; &lt;span style="flex: 1;"&gt;The &lt;strong&gt;New York Chapter&lt;/strong&gt; would like to thank &lt;a href="https://www.twosigma.com"&gt;TwoSigma&lt;/a&gt; for helping to make this meetup possible.&lt;/span&gt;
+&lt;/p&gt;
+
+&lt;hr /&gt;
+</content>
+  </entry>
+  <entry>
+    <title>QCon 2018: Matt Adereth on The Mode Tree - A Tool for Visualization of Nonparametric Density Features</title>
+    <link rel="alternate" href="http://papers-we-love.github.io/2018/video/matt-adereth-on-the-mode-tree/"/>
+    <id>http://papers-we-love.github.io/2018/video/matt-adereth-on-the-mode-tree/</id>
+    <published>2018-07-25T20:00:00-04:00</published>
+    <updated>2018-07-28T08:41:21-04:00</updated>
+    <author>
+      <name>St. Vincent</name>
+    </author>
+    <content type="html">&lt;iframe class="video" width="560" height="315" src="https://www.youtube.com/embed/ILi9DHtXC1M" frameborder="0" allowfullscreen=""&gt;&lt;/iframe&gt;
+
+&lt;p&gt;&lt;/p&gt;
+
+&lt;h2 id="new-york---june-27th-2018"&gt;New York - June 27th, 2018&lt;/h2&gt;
+
+&lt;hr /&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;&lt;strong&gt;Meetup:&lt;/strong&gt; &lt;a href="https://bit.ly/2Op1ORr"&gt;https://bit.ly/2Op1ORr&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;Paper:&lt;/strong&gt;&lt;a href="https://bit.ly/2LpSUFB"&gt;https://bit.ly/2LpSUFB&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;Slides:&lt;/strong&gt; &lt;a href="https://bit.ly/2NOXQ3E"&gt;https://bit.ly/2NOXQ3E&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;strong&gt;Bio&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;Matt Adereth is a Managing Director at Two Sigma Investments (https://www.twosigma.com), where he works on tools, infrastructure and methodologies for quantitative financial research. He previously worked at Microsoft on Office, focusing on data connectivity and visualization features. In his spare time, he designs open-source ergonomic keyboards using Clojure.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Audio&lt;/strong&gt;&lt;/p&gt;
+
+&lt;iframe width="100%" height="60" src="https://www.mixcloud.com/widget/iframe/?hide_cover=1&amp;amp;mini=1&amp;amp;feed=%2Fpaperswelovee%2Fqcon-2018-matt-adereth-on-the-mode-tree-a-tool-for-visualization-of-nonparametric-density-feature%2F" frameborder="0"&gt;&lt;/iframe&gt;
+
+&lt;hr /&gt;
+
+&lt;p style="display: flex; flex-direction: row; justify-content: center; align-items: center;"&gt;
+  &lt;a href="https://www.twosigma.com/"&gt;&lt;img src="/images/TwoSigma_RGB.jpg" alt="TwoSigma" title="TwoSigma - Platinum Sponsor of Papers We Love NYC" style="width: 200px; margin: 0 1em 0 0;" /&gt;&lt;/a&gt; &lt;span style="flex: 1;"&gt;The &lt;strong&gt;New York Chapter&lt;/strong&gt; would like to thank &lt;a href="https://www.twosigma.com"&gt;TwoSigma&lt;/a&gt; for helping to make this meetup possible.&lt;/span&gt;
+&lt;/p&gt;
+
+&lt;hr /&gt;
+</content>
+  </entry>
+  <entry>
+    <title>QCon 2018: Sally Radwan on What Does Explainable AI Really Mean?</title>
+    <link rel="alternate" href="http://papers-we-love.github.io/2018/video/sally-radwan-on-what-does-explainable-ai-really-mean/"/>
+    <id>http://papers-we-love.github.io/2018/video/sally-radwan-on-what-does-explainable-ai-really-mean/</id>
+    <published>2018-07-25T20:00:00-04:00</published>
+    <updated>2018-07-28T08:41:21-04:00</updated>
+    <author>
+      <name>St. Vincent</name>
+    </author>
+    <content type="html">&lt;iframe class="video" width="560" height="315" src="https://www.youtube.com/embed/KTpJCD3stlw" frameborder="0" allowfullscreen=""&gt;&lt;/iframe&gt;
+
+&lt;p&gt;&lt;/p&gt;
+
+&lt;h2 id="new-york---june-27th-2018"&gt;New York - June 27th, 2018&lt;/h2&gt;
+
+&lt;hr /&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;&lt;strong&gt;Meetup:&lt;/strong&gt; &lt;a href="https://bit.ly/2Op1ORr"&gt;https://bit.ly/2Op1ORr&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;Paper:&lt;/strong&gt; &lt;a href="https://bit.ly/2Om23Nr"&gt;https://bit.ly/2Om23Nr&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;Slides:&lt;/strong&gt; &lt;a href="https://bit.ly/2mMUnHj"&gt;https://bit.ly/2mMUnHj&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;strong&gt;Bio&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;Golestan "Sally" Radwan (&lt;a href="https://twitter.com/smarthelix"&gt;@smarthelix&lt;/a&gt;) is a Computer and Biomedical Engineer. Until recently, she led the AI product portfolio at London-based health tech startup babylon health, leading a team of doctors, engineers, AI scientists and designers to create an intelligent mobile platform for medical diagnosis, predictive health, and chronic disease management. Prior to babylon, Sally spent over 10 years in the technology industry in Germany, the UK and the USA, where she held various positions in engineering management, strategic planning and product management for the likes of Canonical/Ubuntu, Avaya Inc and NTT Data. Sally holds a BSc in Computer Engineering from Cairo University, an MBA from London Business School, and an MSc in Clinical Engineering and Healthcare Technology Management from the University of London, where she is currently finishing her PhD in AI and Computational Biology. She is also working on launching her own AI startup, which is currently in stealth mode.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Slides&lt;/strong&gt;&lt;/p&gt;
+
+&lt;script async="" class="speakerdeck-embed" data-id="7ba7c454552948c180e2f840bbdb2d38" data-ratio="1.77777777777778" src="//speakerdeck.com/assets/embed.js"&gt;&lt;/script&gt;
+
+&lt;p&gt;&lt;strong&gt;Audio&lt;/strong&gt;&lt;/p&gt;
+
+&lt;iframe width="100%" height="60" src="https://www.mixcloud.com/widget/iframe/?hide_cover=1&amp;amp;mini=1&amp;amp;feed=%2Fpaperswelovee%2Fqcon-2018-sally-radwan-on-what-does-explainable-ai-really-mean%2F" frameborder="0"&gt;&lt;/iframe&gt;
+
+&lt;hr /&gt;
+
+&lt;p style="display: flex; flex-direction: row; justify-content: center; align-items: center;"&gt;
+  &lt;a href="https://www.twosigma.com/"&gt;&lt;img src="/images/TwoSigma_RGB.jpg" alt="TwoSigma" title="TwoSigma - Platinum Sponsor of Papers We Love NYC" style="width: 200px; margin: 0 1em 0 0;" /&gt;&lt;/a&gt; &lt;span style="flex: 1;"&gt;The &lt;strong&gt;New York Chapter&lt;/strong&gt; would like to thank &lt;a href="https://www.twosigma.com"&gt;TwoSigma&lt;/a&gt; for helping to make this meetup possible.&lt;/span&gt;
+&lt;/p&gt;
+
+&lt;hr /&gt;
+</content>
+  </entry>
+</feed>
